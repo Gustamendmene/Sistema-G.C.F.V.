@@ -1,0 +1,18 @@
+"""Cores e constantes visuais usadas em todas as telas."""
+
+AZUL_ESCURO = "#123B70"
+AZUL = "#2468AC"
+BRANCO = "#FFFFFF"
+CINZA = "#F4F6F9"
+TEXTO_SUAVE = "#64748B"
+VERMELHO = "#D94A4A"
+AMARELO = "#D99B24"
+LARANJA = "#E07B1F"
+VERDE = "#2E9E5B"
+LINHA = "#DCE3EA"
+
+CORES_ALERTA = {
+    "VENCIDO": VERMELHO,
+    "PRÓXIMO DO VENCIMENTO": AMARELO,
+    "ESTOQUE BAIXO": LARANJA,
+}
